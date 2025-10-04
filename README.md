@@ -11,7 +11,7 @@ BitsInMotion is an open-source project by [BitsInBinary](https://github.com/bits
 
 ## Projects
 
-1. `I Love Coding`
+1. `I Love You`
 
 ## Contributing
 
