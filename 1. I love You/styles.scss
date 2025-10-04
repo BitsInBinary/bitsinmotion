@@ -25,10 +25,6 @@ body {
   background-color: $col-bg;
   font-size: 62.5%;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-
-  @media screen and (max-width: $to-mobile) {
-    /* don't know how to set default units to rem in mojs :(( */
-  }
 }
 
 .container {
